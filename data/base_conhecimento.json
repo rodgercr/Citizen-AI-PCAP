@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentação",
+    "titulo": "Emitir e acessar a Carteira de Trabalho Digital",
+    "palavras_chave": ["carteira de trabalho digital", "ctps digital", "emitir carteira", "tirar carteira de trabalho", "carteira de trabalho"],
+    "resposta": "A Carteira de Trabalho Digital é gratuita e pode ser acessada pelo aplicativo Carteira de Trabalho Digital ou pelo serviço no gov.br. Entre com sua conta gov.br. O número do CPF é a identificação principal da carteira digital; normalmente não é preciso ir a um posto para obter a versão digital.",
+    "documentos": ["CPF", "Conta gov.br para entrar no serviço"],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou serviço 'Obter a Carteira de Trabalho' no gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+    "verificado_em": "2026-11-13"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentação",
+    "titulo": "Consultar ou regularizar a situação do CPF",
+    "palavras_chave": ["regularizar cpf", "consultar cpf", "cpf irregular", "situacao cadastral cpf", "cpf suspenso"],
+    "resposta": "Acesse a página 'Meu CPF' da Receita Federal para consultar a situação cadastral. Se aparecer 'Suspenso', siga a opção de corrigir os dados. Se aparecer 'Pendente de Regularização', consulte as orientações para declarações de imposto de renda faltantes. O procedimento depende da situação exibida; não informe seu CPF neste assistente.",
+    "documentos": ["Documento de identificação atualizado com foto, se houver atendimento presencial", "Documentos adicionais indicados pela Receita Federal para a situação específica"],
+    "onde": "Portal Meu CPF da Receita Federal; se necessário, canais oficiais de atendimento da Receita",
+    "fonte": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf",
+    "verificado_em": "2026-11-13"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentação",
+    "titulo": "Solicitar o primeiro título de eleitor",
+    "palavras_chave": ["titulo de eleitor", "tirar titulo", "primeiro titulo", "alistamento eleitoral", "titulo net"],
+    "resposta": "O primeiro título pode ser solicitado pelo Autoatendimento Eleitoral (Título Net), no portal do Tribunal Superior Eleitoral, conforme a disponibilidade do serviço. Prepare os documentos e imagens solicitados pelo sistema, preencha o pedido e acompanhe sua análise. O cadastro eleitoral foi reaberto em 3 de novembro de 2026; confira sempre a situação atual no TSE.",
+    "documentos": ["Documento de identificação aceito pelo TSE", "Comprovante de vínculo com o município, conforme instruções do TSE", "Imagens ou selfie solicitadas no Autoatendimento, quando aplicável"],
+    "onde": "Autoatendimento Eleitoral - Título Net, no site do TSE; ou cartório eleitoral quando necessário",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/titulo-eleitoral/autoatendimento-eleitoral",
+    "verificado_em": "2026-11-13"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentação",
+    "titulo": "Criar e acessar uma conta gov.br",
+    "palavras_chave": ["criar conta gov br", "cadastro gov br", "conta gov br", "entrar no gov br", "login governo"],
+    "resposta": "Você pode criar sua conta gov.br pelo aplicativo ou pelo portal oficial. No cadastro, informe seus dados diretamente no ambiente do governo, siga a verificação solicitada e configure uma senha. Esta plataforma de orientação não pede CPF, e-mail, telefone ou senha.",
+    "documentos": ["CPF, informado somente no site ou aplicativo oficial", "Dados de identificação que o sistema oficial solicitar"],
+    "onde": "Site oficial gov.br ou aplicativo gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br",
+    "verificado_em": "2026-11-13"
+  },
+  {
+    "id": 5,
+    "categoria": "Primeiro emprego",
+    "titulo": "Procurar vagas de trabalho pelo SINE e Emprega Brasil",
+    "palavras_chave": ["vagas sine", "emprega brasil", "procurar emprego", "buscar vagas", "vagas de trabalho", "sistema nacional de emprego", "vaga de emprego", "vagas de emprego", "arrumar emprego", "conseguir emprego", "primeiro emprego", "arrumar trabalho", "procurando emprego"],
+    "resposta": "Para buscar vagas pelo Sistema Nacional de Emprego (SINE), entre no Portal Emprega Brasil com sua conta gov.br, atualize seu perfil profissional e consulte as oportunidades compatíveis. Também é possível consultar vagas pelo aplicativo Carteira de Trabalho Digital e nos postos da rede SINE.",
+    "documentos": ["Conta gov.br para acesso ao portal", "Informações sobre escolaridade e experiência para atualizar o perfil"],
+    "onde": "Portal Emprega Brasil - Trabalhador, aplicativo Carteira de Trabalho Digital ou posto da rede SINE",
+    "fonte": "https://www.gov.br/pt-br/servicos/acessar-portal-emprega-brasil-2013-trabalhador",
+    "verificado_em": "2026-11-13"
+  },
+  {
+    "id": 6,
+    "categoria": "Primeiro emprego",
+    "titulo": "Entender o programa Jovem Aprendiz",
+    "palavras_chave": ["jovem aprendiz", "aprendizagem profissional", "contrato de aprendiz", "vagas aprendiz", "ser aprendiz"],
+    "resposta": "A aprendizagem profissional combina aulas de formação com atividade prática na empresa. Em regra, atende jovens a partir de 14 anos e menores de 24; para pessoas com deficiência, não há limite máximo de idade. O aprendiz tem contrato especial e direitos como salário, férias, décimo terceiro e FGTS. Procure oportunidades em empresas e entidades formadoras habilitadas e confira os requisitos da vaga.",
+    "documentos": ["Documentos de identificação exigidos na seleção", "Comprovante escolar, quando solicitado", "Documentação indicada pela entidade formadora e pela empresa"],
+    "onde": "Empresas contratantes e entidades de aprendizagem; informações no Ministério do Trabalho e Emprego",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/aprendizagem-profissional",
+    "verificado_em": "2026-11-13"
+  },
+  {
+    "id": 7,
+    "categoria": "Primeiro emprego",
+    "titulo": "Conseguir estágio e entender o termo de compromisso",
+    "palavras_chave": ["conseguir estagio", "vaga de estagio", "lei do estagio", "termo de compromisso", "estudante estagiario"],
+    "resposta": "O estágio é uma atividade educativa supervisionada para estudantes que atendem aos requisitos da Lei 11.788/2008. Procure vagas em empresas, instituições ou agentes de integração e verifique as condições com sua escola ou faculdade. Para a regularidade do estágio, é necessário termo de compromisso entre estudante, instituição de ensino e organização concedente, além de atividades compatíveis com o curso.",
+    "documentos": ["Comprovação de matrícula e frequência regular", "Termo de compromisso de estágio firmado pelas partes", "Outros documentos pedidos pela instituição de ensino e concedente"],
+    "onde": "Instituição de ensino, organização que oferece a vaga ou agente de integração",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm",
+    "verificado_em": "2026-11-13"
+  },
+  {
+    "id": 8,
+    "categoria": "Primeiro emprego",
+    "titulo": "Consultar contratos e vínculos na Carteira de Trabalho Digital",
+    "palavras_chave": ["consultar contrato de trabalho", "ver vinculo empregaticio", "contrato na carteira", "registro de trabalho", "consultar admissao"],
+    "resposta": "A Carteira de Trabalho Digital permite consultar informações da vida profissional, incluindo vínculos e registros de contratos. Acesse o aplicativo ou serviço oficial usando sua conta gov.br e procure a área de contratos de trabalho. A disponibilidade de detalhes pode depender da autenticação e da atualização dos registros oficiais.",
+    "documentos": ["CPF", "Conta gov.br para acesso autenticado"],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou serviço no gov.br",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/carteira-de-trabalho/perguntas-frequentes-carteira-de-trabalho-digital",
+    "verificado_em": "2026-11-13"
+  },
+  {
+    "id": 9,
+    "categoria": "Direitos e qualificação",
+    "titulo": "Consultar o saldo e o extrato do FGTS",
+    "palavras_chave": ["consultar fgts", "saldo fgts", "extrato do fgts", "deposito fgts", "app fgts"],
+    "resposta": "A CAIXA disponibiliza o aplicativo FGTS para consultar saldo, extrato e depósitos. Baixe o aplicativo oficial, siga as orientações de acesso e visualize as informações da sua conta. A existência de saldo não significa que o saque esteja liberado; as regras de saque dependem da situação prevista em lei.",
+    "documentos": ["Dados de identificação solicitados diretamente pelo aplicativo oficial"],
+    "onde": "Aplicativo FGTS da CAIXA; canais da CAIXA quando aplicável",
+    "fonte": "https://www.caixa.gov.br/beneficios-trabalhador/fgts/extrato-fgts/Paginas/default.aspx",
+    "verificado_em": "2026-11-13"
+  },
+  {
+    "id": 10,
+    "categoria": "Direitos e qualificação",
+    "titulo": "Fazer cursos gratuitos de qualificação profissional",
+    "palavras_chave": ["cursos gratuitos", "curso profissionalizante", "qualificacao profissional", "escola virtual de governo", "capacitar para emprego"],
+    "resposta": "A Escola Virtual de Governo (EV.G) oferece cursos on-line gratuitos para cidadãos em geral, com diversos temas e ritmos de estudo. Acesse o catálogo oficial, escolha um curso e siga as instruções de cadastro e inscrição. Veja os pré-requisitos de cada curso antes de começar.",
+    "documentos": ["Informações de cadastro solicitadas diretamente na plataforma EV.G"],
+    "onde": "Escola Virtual de Governo - https://www.escolavirtual.gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/inscrever-se-em-cursos-autoinstrucionais-na-escola-virtual-de-governo",
+    "verificado_em": "2026-11-13"
+  }
+]

@@ -75,4 +75,4 @@ A busca retorna tuplas `(pontos, orientacao)` em ordem decrescente de pontuaçã
 
 ## Vídeo técnico
 
-Link do YouTube (não listado): **[PREENCHER APÓS PUBLICAÇÃO]**
+Link do YouTube (não listado): [Assistir ao vídeo](https://youtu.be/b3R6W8IvFOA)
